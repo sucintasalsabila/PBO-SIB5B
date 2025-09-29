@@ -30,6 +30,7 @@ class Professor extends Person {
 //const person = new Person("Cinta");
 //console.log[person.getInformation()];
 
+
 const ema = new Professor("Ema","Math", 22);
 console.log[ema.getInformation()];
 console.log[ema.introductSelf()];
